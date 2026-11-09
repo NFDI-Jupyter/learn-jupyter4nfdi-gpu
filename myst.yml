@@ -1,7 +1,7 @@
 version: 1
 
 project:
-  title: TRAINING MATERIALS TITLE
+  title: Accessing GPU on Jupyter4NFDI
   github: https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-gpu
   license: CC-BY-4.0
   authors:
