@@ -11,6 +11,7 @@ project:
   toc:
     - file: modules/01_introduction.md
     - file: modules/02_request_access.md
+    - file: module/03_launching_gpu.md
 
 
   # In-page execution (the "power" button at the top of the page) using Thebe
